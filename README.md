@@ -1,6 +1,9 @@
-### Welcome to my page! 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CeceStar&show_icons=true&text_color=95c9d7&title_color=f28482&icon_color=f28482&border_color=95c9d7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CeceStar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeceStar&layout=compact&card_width=445px&show_icons=true&text_color=95c9d7&title_color=f28482&icon_color=f28482&border_color=95c9d7)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **CeceStar/CeceStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
